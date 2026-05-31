@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./component/Navbar";
-import Hero from "./section/hero";
+import Hero from "./section/Hero";
 import About from "./section/About";
 import Experiences from "./section/Experiences";
 import Skills from "./section/Skills";
